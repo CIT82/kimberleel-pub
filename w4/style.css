@@ -1,0 +1,21 @@
+body {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 60%;
+  font-family: sans-serif;
+  font-size: 1.2rem;
+}
+table {
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
+}
+th {
+  background-color: lightblue;
+}
+th,
+td {
+  border: 1px solid darkgray;
+  border-collapse: collapse;
+  border-radius: 5px;
+  padding: 10px;
+}
