@@ -1,16 +1,60 @@
-<!doctype html>
-<html lang="en-US">
+<!DOCTYPE html>
+<html lang="en">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width" />
-  <title>Kimberlee Linthicum</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <script src="main.js"></script>
+  <title>My Website</title>
 </head>
-<body>
-  <h1>Hello FCC World!</h1>
-  <h2>This is me.</h2>
-  <h2>This is on my local system</h2>
-  <p>Fun fact: This image was created using AI. The original picture has me leaning over, head to head with my daughter
-    on a train. <br> So AI was kind enough to remove my daugher, added a jacket and put me in an office.</p>
-  <img src="../images/kimberleelinthicum.jpg" alt="Kimberlee Linthicum" width=150px />
+<body class="outline">
+  <header>
+    <h1>Welcome to my Website!</h1>
+  </header>
+  <main>
+    <p>Website demonstrating web dev skills in training</p>
+    <section>
+      <h2>My Fave Fruits</h2>
+      <div>
+        <ul>
+          <li>Peaches</li>
+          <li>Strawberries</li>
+          <li>Canteloupe</li>
+        </ul>
+        <p>Check out these recipes for <a
+            href="https://www.allrecipes.com/recipe/214947/perfect-summer-fruit-salad/">fuit salad.</a></p>
+        <img src="images/fruit.png" width=200px alt="fruit basket">
+      </div>
+    </section>
+    <section>
+      <h2>Steps To Making a Toastadilla</h2>
+      <div>
+        <img src="images/toasterdilla.png" width=200px alt="">
+
+        <ol>
+          <li>Add grated cheese and chipotle sauce (optional) to a flour tortilla</li>
+          <li>Fold sides in and tortilla in half so your tortilla is the size of a slice of bread</li>
+          <li>put in toaster and toast</li>
+        </ol>
+        <a href="https://www.thekitchn.com/tiktok-toasterdilla-review-23036552">Toasterdilla Review</a>
+      </div>
+      <p>You're welcome!</p>
+    </section>
+    <section>
+      <h2>Contact Us</h2>
+      <form action="">
+        <label for="">Name: </label>
+        <input type="text">
+        <label for="">Email:</label>
+        <input type="email">
+        <label for="">Message: </label>
+        <textarea cols="30" rows="10"></textarea><br>
+        <button type="submit">Submit</button>
+      </form>
+    </section>
+  </main>
+  <footer>
+    Copyright &copy Kimberlee Linthicum
+  </footer>
 </body>
 </html>
