@@ -2,8 +2,6 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   margin: 0;
   padding: 0;
-  background-color: #000000;
-  color: #4cc9f0;
 }
 h1,
 h2,
@@ -11,21 +9,26 @@ h3 {
   text-align: center;
 }
 header {
-  background-color: #4cc9f0;
+  background-color: #f72585;
   color: #000000;
-
-  padding: 10px 0;
+  padding: 10px;
+  margin-bottom: 20px;
 }
 p a,
 a {
-  color: white;
+  color: lightblue;
+  text-decoration: none;
 }
 main {
   padding: 2rem 5rem;
-  background-color: rgba(240, 83, 222, 0.1);
 }
-
-section {
+.bottom {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+section,
+.container {
   background-color: #3a0ca3;
   color: white;
   padding: 1rem;
@@ -33,6 +36,8 @@ section {
 }
 .outline {
   border: solid 1px gray;
+  background-color: #000000;
+  color: #4cc9f0;
 }
 footer {
   font-size: 0.75rem;
@@ -45,4 +50,38 @@ label {
 div {
   display: flex;
   justify-content: space-evenly;
+}
+.contact {
+  color: black;
+}
+input[type="text"],
+input[type="email"],
+textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+}
+
+button {
+  background-color: #f72585;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #4cc9f0;
+}
+
+.container {
+  margin-right: auto;
+  margin-left: auto;
+  border-radius: 25px;
+  max-width: 700px;
 }
