@@ -80,3 +80,29 @@
     - h-100: Sets the element's height to 100% of its parent container, making it fill the vertical space.
 - the rest all use the same variation of above
 
+## Part 2
+
+again, I will only mention classes that were not previously defined
+
+- courses
+    -overflow-hidden in the course card clips any content that overglows beyond the element's boundaries
+    -flex-shrink-0 in the course card button prevents the button from getting smaller
+    -border-end adds a border to the right of the element
+    - fa fa-star is the star icon
+    - border-top adds a border to the top of the element
+- team
+    - row g-4 sets the spacing between the grid columns to 4 units
+- footer
+    - row g-5 sets the spacing between grid columns 5 unites
+    - col-lg-3 takes up 3 of 12 columns on large screens
+    - col-md-6 takes up half the columns on medium screens
+    - btn btn-link sets the button as a link
+- back to the top button
+    - styles the button to scroll back to the top using href="#"
+
+- Javascript Libraries
+    - these are the script sources for the libraries used for animation, etc.
+    - waypoints is used when scrolling for scroll-activated animations
+
+
+
