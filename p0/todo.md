@@ -17,9 +17,9 @@
 - [ ] remove 'read more' button
 - [ ] remove social media buttons on instructor card
 - [ ] add instructor name and programs they teach
-- [ ] remove gallery and newletter from footer section
-- [ ] create links to pages the footer section  quick links
-- [ ] replace content in footer and remove unnecessary content
+- [x] remove gallery and newletter from footer section
+- [x] create links to pages the footer section  quick links
+- [x] replace content in footer and remove unnecessary content
 - [ ]
 - [ ]
 - [ ]
