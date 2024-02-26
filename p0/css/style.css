@@ -90,7 +90,7 @@
 
 .btn {
   &:hover {
-    box-shadow: 0 0 10px 0 #b5fb3a inset, 0 0 10px 4px #b5fb3a;
+    box-shadow: 0 0 10px 0 #b5fb3a inset, 0 0 10px 4px rgb(181, 251, 58);
   }
 }
 
