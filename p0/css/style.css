@@ -4,6 +4,9 @@
   --light: #f0fbfc;
   --dark: #6c757d;
 }
+.custom-icon-color {
+  color: #c100fc;
+}
 
 .fw-medium {
   font-weight: 600 !important;
