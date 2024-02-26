@@ -325,7 +325,6 @@ button,
 [type="button"],
 [type="reset"],
 [type="submit"] {
-  -webkit-appearance: button;
 }
 button:not(:disabled),
 [type="button"]:not(:disabled),
@@ -376,7 +375,6 @@ legend + * {
 }
 [type="search"] {
   outline-offset: -2px;
-  -webkit-appearance: textfield;
 }
 ::-webkit-search-decoration {
   -webkit-appearance: none;
@@ -2041,7 +2039,6 @@ textarea.form-control-lg {
   background-size: contain;
   border: 1px solid rgba(0, 0, 0, 0.25);
   appearance: none;
-  color-adjust: exact;
 }
 .form-check-input[type="checkbox"] {
   border-radius: 0.25em;
@@ -2554,8 +2551,8 @@ fieldset:disabled .btn {
 }
 .btn-primary:hover {
   color: #000;
-  background-color: #2bc5d4;
-  border-color: #1fc2d1;
+  background-color: #fff;
+  border-color: #b5fb3a;
 }
 .btn-check:focus + .btn-primary,
 .btn-primary:focus {
@@ -2744,8 +2741,8 @@ fieldset:disabled .btn {
 }
 .btn-danger {
   color: #fff;
-  background-color: #dc3545;
-  border-color: #dc3545;
+  background-color: darkred;
+  border-color: darkred;
 }
 .btn-danger:hover {
   color: #fff;
@@ -6840,7 +6837,7 @@ fieldset:disabled .btn {
   background-color: #ffc107 !important;
 }
 .bg-danger {
-  background-color: #dc3545 !important;
+  background-color: darkred !important;
 }
 .bg-light {
   background-color: #f0fbfc !important;
