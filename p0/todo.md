@@ -37,13 +37,13 @@
 - [x] Fix Home and About Us links in footer
 
 #### Tech Page
-    - [x] Create Tech page linking to classes
+- [x] Create Tech page linking to classes
 
 #### Mixing Page
-        - [x] Create schedule
+- [x] Create schedule
 
 #### Sound production Page
-        - [x] Create schedule
+- [x] Create schedule
 
 ### Team Page
 - [ ] Fix duplicate images
