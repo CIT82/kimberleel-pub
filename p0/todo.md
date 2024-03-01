@@ -51,14 +51,14 @@
 - [ ] remove social media incons in cards
 
 ### Events Page
-- [ ]
+- [ ] complete pages
     #### Blog Page
-    - [ ]
+    - [ ] complete page
     #### Calendar Page
-    - [ ]
+    - [ ] complete page
 
 ### Contact Page
-- [x]
+- [x] complete interest form
 
 ### Site Map Page
-- [x]
+- [x] complete sitemap
