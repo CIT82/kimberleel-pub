@@ -21,50 +21,29 @@
 
 ### Program Page
 - [x] correct breadcrumb links
-- [ ] replace section images
-- [ ] switch image and content places in tech section
+- [x] replace section images
+- [x] switch image and content places in tech section
 - [x] fix music link to go to Music page
 - [x] fix tech link to go to Tech page
 - [x] fix link for Home and About in footer
 - [ ] change button content in Tech section
 
     #### Music Page
-    - [ ] Change Category names to align with music lesson
-    - [ ] Change images in each of those categories
-    - [ ] Fix course links in the category secion
-    - [ ] Change the course cost section - section name, price content to reflect music lessons
+    - [x] Change Category names to align with music lesson
+    - [x] Change images in each of those categories
+    - [x] Fix course links in the category secion
+    - [x] Change the course cost section - section name, price content to reflect music lessons
     - [ ] Correct testimonial content to align with business
     - [x] Fix Home and About Us links in footer
 
-        #### Bass Page
-        - [ ]
-        - [ ]
-
-
-        #### Guitar Page
-        - [ ]
-        - [ ]
-
-        #### Drums Page
-        - [ ]
-        - [ ]
-
-        #### Keyboard Page
-        - [ ]
-        - [ ]
-
-        #### Voice Page
-        - [ ]
-        - [ ]
-
     #### Tech Page
-    - [ ]
+    - [x] Create Tech page linking to classes
 
         #### Mixing Page
-        - [ ]
+        - [x] Create schedule
 
-        #### Synthesis Page
-        - [ ]
+        #### Sound production Page
+        - [x] Create schedule
 
 ### Team Page
 - [ ] Fix duplicate images
@@ -79,14 +58,7 @@
     - [ ]
 
 ### Contact Page
-
-### About Page
-- [ ] Add Hero Image
-- [ ] Fix category content and colors
-- [ ] Add about content
-- [ ] Remove or change Instructor section
+- [x]
 
 ### Site Map Page
-- [ ]
-- [ ]
-- [ ]
+- [ x]

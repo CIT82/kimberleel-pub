@@ -430,6 +430,14 @@
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
     url("../img/voicebg.jpeg");
 }
+#mixingbg {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("../img/equipment.jpeg");
+}
+#contactbg {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("../img/contact.jpeg");
+}
 
 /*** Footer ***/
 .footer .btn.btn-social {
@@ -703,4 +711,10 @@
 }
 .dropdown.show .dropdown-menu ul {
   max-height: 150px;
+}
+fieldset {
+  border: 1px solid #ddd; /* Light gray border */
+  padding: 15px;
+  margin-bottom: 15px;
+  border-radius: 5px; /* Slightly round the corners */
 }
