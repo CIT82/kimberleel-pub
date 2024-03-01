@@ -28,21 +28,21 @@
 - [x] fix link for Home and About in footer
 - [x] change button content in Tech section
 
-    #### Music Page
-    - [x] Change Category names to align with music lesson
-    - [x] Change images in each of those categories
-    - [x] Fix course links in the category secion
-    - [x] Change the course cost section - section name, price content to reflect music lessons
-    - [ ] Correct testimonial content to align with business
-    - [x] Fix Home and About Us links in footer
+#### Music Page
+- [x] Change Category names to align with music lesson
+- [x] Change images in each of those categories
+- [x] Fix course links in the category secion
+- [x] Change the course cost section - section name, price content to reflect music lessons
+- [ ] Correct testimonial content to align with business
+- [x] Fix Home and About Us links in footer
 
-    #### Tech Page
+#### Tech Page
     - [x] Create Tech page linking to classes
 
-        #### Mixing Page
+#### Mixing Page
         - [x] Create schedule
 
-        #### Sound production Page
+#### Sound production Page
         - [x] Create schedule
 
 ### Team Page
@@ -51,11 +51,8 @@
 - [ ] remove social media incons in cards
 
 ### Events Page
-- [ ] complete pages
-    #### Blog Page
-    - [ ] complete page
-    #### Calendar Page
-    - [ ] complete page
+- [ ] complete Blog page
+- [ ] complete event calendar
 
 ### Contact Page
 - [x] complete interest form
