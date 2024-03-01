@@ -26,7 +26,7 @@
 - [x] fix music link to go to Music page
 - [x] fix tech link to go to Tech page
 - [x] fix link for Home and About in footer
-- [ ] change button content in Tech section
+- [x] change button content in Tech section
 
     #### Music Page
     - [x] Change Category names to align with music lesson
@@ -61,4 +61,4 @@
 - [x]
 
 ### Site Map Page
-- [ x]
+- [x]
