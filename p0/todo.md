@@ -1,5 +1,5 @@
 # Final Todo
 
-- [ ] Complete Event page for future events
-- [ ] Complet Past Event Page
-- [ ] Fix Testimonals on Tech Program Page
+- [x] Complete Event page for future events
+- [x] Complet Past Event Page
+- [x] Fix Testimonals on Tech Program Page
